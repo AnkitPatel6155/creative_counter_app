@@ -1,6 +1,8 @@
 # creative_counter_app
 
 A new Flutter project.
+![WhatsApp Image 2025-09-07 at 8 15 30 PM](https://github.com/user-attachments/assets/26c6e782-82d2-435a-9c1b-2dcb31952b33)
+
 
 ## Getting Started
 
